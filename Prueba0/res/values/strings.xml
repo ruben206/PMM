@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Prueba0</string>
+    
+    <string name="cbasicos">Controles Básicos</string>
+    <string name="cavanzados">Controles de Selección</string>
+    <string name="sobre">Sobre mí</string>
+ 
+    <string name="chk_b">Check Button</string>
+    <string name="rad_b">Radio Button</string>
+    <string name="listas">listas</string>
+    
+    <string name="chk_ios">IPhone</string>
+    <string name="chk_android">Android</string>
+    <string name="chk_windows">Windows Mobile</string>
+    <string name="btn_display">Mostrar</string>
+
+</resources>

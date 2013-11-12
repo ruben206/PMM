@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/selec"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="ID opción seleccionada: (ninguna)" />
+
+    <RadioGroup
+        android:id="@+id/grupo"
+        android:layout_width="fill_parent"
+        android:layout_height="150dp"
+        android:orientation="vertical" >
+
+        <RadioButton
+            android:id="@+id/verd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="VERDE" />
+
+        <RadioButton
+            android:id="@+id/azu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="AZUL" />
+        
+        <RadioButton
+            android:id="@+id/amar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="AMARILLO" />
+        
+        <RadioButton
+            android:id="@+id/roj"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ROJO" />
+    </RadioGroup>
+
+</TableLayout>
