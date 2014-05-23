@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pulsa el menú</string>
+    <string name="opcion1">Controles Basicos</string>
+    <string name="opcion2">Controles Seleccion</string>
+    
+    <string name="action_settings">No hay opciones</string>
+    <string name="title_activity_radiobutton">RadioButton</string>
+    <string name="title_activity_checkbutton">CheckButton</string>
+	<string name="title_activity_saludo">Hola persona</string>
+	<string name="nombre">Escribe tu nombre:</string>
+	<string name="checkboton">Check Button</string>
+	<string name="spinbb">Spinner</string>
+	<string name="listbb">Lista</string>
+	
+	<string name="title_activity_listbutton">List</string>
+    <string name="title_activity_spinnerbutton">Spinner</string>
+    <string name="title_activity_listbuttonpantallados">Pantalla Dos</string>
+    <string name="pulsamenu">Pulsa el menú</string>
+    
+    
+</resources>
